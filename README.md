@@ -1,0 +1,1 @@
+[Описание]([https://github.com/tslabs/zx-evo/tree/master/pentevo/docs/TSconf](https://docs.google.com/document/d/1S_uE4L1TAqa4BBvMki834QY5YZfWMdLOS76uFORidEc/edit?usp=sharing)https://docs.google.com/document/d/1S_uE4L1TAqa4BBvMki834QY5YZfWMdLOS76uFORidEc/edit?usp=sharing) RUS
